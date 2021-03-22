@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yehudahs
-- 👀 I’m interested in embedded toolsand simulations.
+- 👀 I’m interested in embedded tools and simulations.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - yehudahs@gmail.com
